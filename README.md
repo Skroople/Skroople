@@ -13,6 +13,7 @@ Computer Engineering student with a habit of opening things up to see how they w
 
 | Project | Stack | What it does |
 |---|---|---|
+| [port-scanner](https://github.com/Skroople/port-scanner) | Python, sockets | Multithreaded TCP port scanner with banner grabbing |
 | P2P File-Sharing System | Python, UDP/TCP | Peer-to-peer file transfer built from raw sockets |
 | SherLook – Catfish Check | Swift, iOS, Supabase | My own iOS app, currently in TestFlight testing |
 | City RideShare Trip Analyzer | C++ | Trip data analysis built on custom data structures |
