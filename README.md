@@ -14,6 +14,8 @@ Computer Engineering student with a habit of opening things up to see how they w
 | Project | Stack | What it does |
 |---|---|---|
 | [port-scanner](https://github.com/Skroople/port-scanner) | Python, sockets | Multithreaded TCP port scanner with banner grabbing |
+| [arp-spoof-detector](https://github.com/Skroople/arp-spoof-detector) | Python, Scapy | Detects ARP spoofing on your LAN by flagging IPs whose MAC changes |
+| [hash-tool](https://github.com/Skroople/hash-tool) | Python | Hash identifier and wordlist recovery helper for CTFs |
 | [p2p-file-sharing](https://github.com/Skroople/p2p-file-sharing) | Python, UDP/TCP, Diffie-Hellman | LAN peer-to-peer file transfer from raw sockets, with encrypted downloads verified in Wireshark |
 | SherLook – Catfish Check | Swift, iOS, Supabase | My own iOS app, currently in TestFlight testing |
 | [trip-analyzer](https://github.com/Skroople/trip-analyzer) | C++17 | One-pass O(n) ride-share data analyzer with a CSV parser that survives dirty data |
