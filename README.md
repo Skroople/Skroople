@@ -14,10 +14,11 @@ Computer Engineering student with a habit of opening things up to see how they w
 | Project | Stack | What it does |
 |---|---|---|
 | [port-scanner](https://github.com/Skroople/port-scanner) | Python, sockets | Multithreaded TCP port scanner with banner grabbing |
-| P2P File-Sharing System | Python, UDP/TCP | Peer-to-peer file transfer built from raw sockets |
+| [p2p-file-sharing](https://github.com/Skroople/p2p-file-sharing) | Python, UDP/TCP, Diffie-Hellman | LAN peer-to-peer file transfer from raw sockets, with encrypted downloads verified in Wireshark |
 | SherLook – Catfish Check | Swift, iOS, Supabase | My own iOS app, currently in TestFlight testing |
 | City RideShare Trip Analyzer | C++ | Trip data analysis built on custom data structures |
-| Information for Everyone | Java, Android | Android information app |
+| [information-for-everyone](https://github.com/Skroople/information-for-everyone) | Java, Android | Android app with health, legal and social-support info, daily tips and notifications |
+| [ctf-writeups](https://github.com/Skroople/ctf-writeups) | Markdown | Writeups for TryHackMe rooms and retired HackTheBox machines |
 
 ## 🧰 Tech
 
