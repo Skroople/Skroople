@@ -16,7 +16,10 @@ Computer Engineering student with a habit of opening things up to see how they w
 | [port-scanner](https://github.com/Skroople/port-scanner) | Python, sockets | Multithreaded TCP port scanner with banner grabbing |
 | [p2p-file-sharing](https://github.com/Skroople/p2p-file-sharing) | Python, UDP/TCP, Diffie-Hellman | LAN peer-to-peer file transfer from raw sockets, with encrypted downloads verified in Wireshark |
 | SherLook – Catfish Check | Swift, iOS, Supabase | My own iOS app, currently in TestFlight testing |
-| City RideShare Trip Analyzer | C++ | Trip data analysis built on custom data structures |
+| [trip-analyzer](https://github.com/Skroople/trip-analyzer) | C++17 | One-pass O(n) ride-share data analyzer with a CSV parser that survives dirty data |
+| [legv8-assembler](https://github.com/Skroople/legv8-assembler) → [legv8-datapath](https://github.com/Skroople/legv8-datapath) | Python | LEGv8 assembler and a single-cycle CPU simulator that runs its machine code |
+| [cache-simulator](https://github.com/Skroople/cache-simulator) | Python | Set-associative cache with LRU, tuned for lowest AMAT under a 4 KB budget |
+| [integer-multiplier](https://github.com/Skroople/integer-multiplier) | Python | 32-bit shift-and-add hardware multiplier using only bitwise logic |
 | [information-for-everyone](https://github.com/Skroople/information-for-everyone) | Java, Android | Android app with health, legal and social-support info, daily tips and notifications |
 | [ctf-writeups](https://github.com/Skroople/ctf-writeups) | Markdown | Writeups for TryHackMe rooms and retired HackTheBox machines |
 
